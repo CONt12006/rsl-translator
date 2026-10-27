@@ -1,0 +1,10 @@
+.venv/
+.venv-win/
+data/
+__pycache__/
+*.pyc
+slovo.zip
+slovo/
+rsl_translator_context.zip
+uploads/
+.env
