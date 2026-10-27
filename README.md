@@ -23,6 +23,8 @@
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
 
 </div>
+---
+<img width="890" height="1017" alt="Пример" src="https://github.com/user-attachments/assets/15c9a50d-133a-4b01-8a00-216a43808c00" />
 
 ---
 
